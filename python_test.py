@@ -4,3 +4,6 @@ print("adding a new print statment to form a merge conflict")
 
 for i in range(10):
     print(i)
+
+if 7 == 8:
+  print("potato")
